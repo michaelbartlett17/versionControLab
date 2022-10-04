@@ -5,5 +5,5 @@ Members:
 
 # What Our Program Does
  - Takes a name input
- - Takes a ANOTHER TYPE of input
- - It does WHAT with this input
+ - Takes an input to ask the user how they're feeling on a scale of 1-10
+ - Prints predefined messages based on how the user is feeling
